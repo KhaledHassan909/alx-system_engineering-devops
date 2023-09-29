@@ -1,0 +1,1 @@
+This READE for Shell permissions project
