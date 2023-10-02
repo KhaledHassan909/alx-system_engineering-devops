@@ -1,0 +1,10 @@
+total 24
+drwxrwxr-x  6 khaledhassan khaledhassan 4096 Oct  2 15:56 .
+drwxr-x--- 36 khaledhassan khaledhassan 4096 Oct  2 15:54 ..
+drwxrwxr-x  2 khaledhassan khaledhassan 4096 Oct  2 14:11 0x00-shell_basics
+drwxrwxr-x  2 khaledhassan khaledhassan 4096 Oct  2 14:11 0x01-shell_permissions
+drwxrwxr-x  2 khaledhassan khaledhassan 4096 Oct  2 15:56 0x02-shell_redirections
+drwxrwxr-x  8 khaledhassan khaledhassan 4096 Oct  2 15:22 .git
+-rwxrwxr-x  1 khaledhassan khaledhassan    0 Oct  2 14:11 hello
+lrwxrwxrwx  1 khaledhassan khaledhassan    7 Oct  2 14:11 __ls__ -> /bin/ls
+-rw-rw-r--  1 khaledhassan khaledhassan    0 Oct  2 15:56 ls_cwd_content
