@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o '^.|^(2\d+1)'
+ls -1 | grep -n '^' | grep -E '^[^:]*[13579]:'
